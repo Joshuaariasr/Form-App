@@ -79,7 +79,7 @@ the-app/
 
 1. Klona projektet:
 ```bash
-git clone [projekt-url]
+git clone https://github.com/Joshuaariasr/Form-App.git
 cd the-app
 ```
 
